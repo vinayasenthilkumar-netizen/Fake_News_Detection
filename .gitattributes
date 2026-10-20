@@ -1,0 +1,5 @@
+# Tell GitHub to treat all HTML files as third-party/generated files so they don't count in statistics
+*.html linguist-vendored
+
+# If you have specific Python data/text files or templates you want included, you can force them here (Optional)
+# *.txt linguist-language=Python
